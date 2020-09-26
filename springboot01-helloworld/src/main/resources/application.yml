@@ -1,0 +1,22 @@
+person:
+    lastname: zhangsan
+    birth: 2020/6/6
+    maps: {k1: v1,k2: v2}
+    lists:
+      - list
+      - zhaoliu
+    dog:
+       name: xiaogou
+       age: 2
+    age: 12
+#也可以指定完整路径
+#logging:
+#  file:
+  #    name: springboot.log
+logging:
+  file:
+    path: /spring/log
+  pattern:
+    console:
+    file:
+#这是指项目的根路径下

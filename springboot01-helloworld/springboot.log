@@ -1,0 +1,8 @@
+2020-09-15 23:11:11.213  INFO 9316 --- [main] s.Springboot01HelloworldApplicationTests : Starting Springboot01HelloworldApplicationTests on LAPTOP-GI6A2RGP with PID 9316 (started by Sun in D:\IdeaProjects\springboot01-helloworld)
+2020-09-15 23:11:11.215  INFO 9316 --- [main] s.Springboot01HelloworldApplicationTests : No active profile set, falling back to default profiles: default
+2020-09-15 23:11:12.769  INFO 9316 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-15 23:11:13.157  INFO 9316 --- [main] s.Springboot01HelloworldApplicationTests : Started Springboot01HelloworldApplicationTests in 2.434 seconds (JVM running for 4.09)
+2020-09-15 23:11:13.510  INFO 9316 --- [main] s.Springboot01HelloworldApplicationTests : 这是info日志
+2020-09-15 23:11:13.513  WARN 9316 --- [main] s.Springboot01HelloworldApplicationTests : 这是warn日志
+2020-09-15 23:11:13.513 ERROR 9316 --- [main] s.Springboot01HelloworldApplicationTests : 这是error日志
+2020-09-15 23:11:13.541  INFO 9316 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
